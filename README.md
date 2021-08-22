@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roudra323
 - 👀 I’m interested in python,django,api,request module,scrapping,automation
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning React, Intermediate/Advance Python🐍
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me asirroudra@gmail.com,https://www.facebook.com/roudra323.jnu.cse
 
