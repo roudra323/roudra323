@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roudra323
 - 👀 I’m interested in python,django,api,request module,scrapping,automation
-- 🌱 I’m currently learning React, Intermediate/Advance Python🐍
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Smart Contract,Solidity
+- 💞️ I’m looking to collaborate on Smart Contract Development
 - 📫 How to reach me asirroudra@gmail.com,https://www.facebook.com/roudra323
 
 <!---
