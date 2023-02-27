@@ -41,7 +41,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
   
-  <a href="https://twitter.com/AsirRoudra">
+  <a href="mailto:asirroudra@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...">
   <img height="50" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png"/>
 </a>
 </p>
