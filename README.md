@@ -14,7 +14,7 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://roudra323stars.vercel.app/api?username=roudra323&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Roudra's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://roudra323stars.vercel.app/api/top-langs/?username=roudra323&layout=compact&theme=dracula&hide_border=true" /></a> 
 | ------------- | ------------- |
 
-| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roudra323&theme=dracula" alt="roudra323"/></p> |
+| <p><img align="center" src="https://streak-stats.demolab.com/?user=roudra323&theme=dracula" alt="roudra323"/></p> |
 | ----------------------------- |
 
 </br>
