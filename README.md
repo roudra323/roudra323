@@ -11,10 +11,10 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:asirroudra@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=roudra323&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Roudra's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roudra323&layout=compact&theme=dracula&hide_border=true" /></a> 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=roudra323&show_icons=true&theme=dracula&hide_border=true&count_private=true&card_width=500" alt="Roudra's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roudra323&layout=compact&theme=dracula&hide_border=true&card_width=500" /></a> 
 | ------------- | ------------- |
 
-| <p><img align="center" src="https://streak-stats.demolab.com/?user=roudra323&theme=dracula" alt="roudra323"/></p> |
+| <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-plum.vercel.app?user=roudra323&theme=darcula&hide_border=true&card_width=1000" alt="GitHub Streak" /></a> |
 | ----------------------------- |
 
 </br>
