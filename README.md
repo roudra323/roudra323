@@ -3,13 +3,13 @@
 </p>
 
 
+<!--
 - 👋 Hi, I’m Asir Shahriar Roudra
 - 👀 I’m interested in Blockchain, Solidity, Smart Contract, Python, Django Framework
 - 🌱 I’m currently learning TypeScript, Smart Contract Optimization
 - 💞️ I’m looking to collaborate on Smart Contract Development
 - 📫 Reach me [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/asir-shahriar-roudra-423567206/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:asirroudra@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
-
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=roudra323&show_icons=true&theme=dracula&hide_border=true&count_private=true&card_width=500" alt="Roudra's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roudra323&layout=compact&theme=dracula&hide_border=true&card_width=500" /></a> 
 | ------------- | ------------- |
@@ -19,8 +19,11 @@
 
 </br>
 
-
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roudra323&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roudra323&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+-->
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=roudra323&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</div>
 
 
 <h1 align="center">
