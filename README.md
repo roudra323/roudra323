@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20I'm%20Roudra&fontSize=42&height=120&section=header" alt="Hi, I'm Roudra" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,50:FF79C6,100:8BE9FD&fontColor=282A36&text=Hi,%20I'm%20Roudra&fontSize=46&fontAlignY=45&height=150&section=header" alt="Hi, I'm Roudra" />
 </p>
 
 <h3 align="center">Full-Stack Engineer (Web3) · Backends, indexers & dApp frontends for on-chain products</h3>
@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.roudra323.codes"><img src="https://img.shields.io/badge/Portfolio-roudra323.codes-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/roudra323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/roudra323"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://medium.com/@asirroudra"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="mailto:asirroudra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.roudra323.codes"><img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=googlechrome&logoColor=BD93F9" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/roudra323/"><img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzhCRTlGRCIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
+  <a href="https://x.com/roudra323"><img src="https://img.shields.io/badge/X-282A36?style=for-the-badge&logo=x&logoColor=F8F8F2" alt="X" /></a>
+  <a href="https://medium.com/@asirroudra"><img src="https://img.shields.io/badge/Medium-282A36?style=for-the-badge&logo=medium&logoColor=50FA7B" alt="Medium" /></a>
+  <a href="mailto:asirroudra@gmail.com"><img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=FF79C6" alt="Email" /></a>
 </p>
 
 ---
@@ -44,43 +44,49 @@ I build the off-chain half of on-chain products: indexers that never miss a bloc
 ### 🛠️ Tech stack
 
 **Backend** &nbsp;
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/NestJS-44475A?style=for-the-badge&logo=nestjs&logoColor=50FA7B" alt="NestJS" />
+<img src="https://img.shields.io/badge/Go-44475A?style=for-the-badge&logo=go&logoColor=50FA7B" alt="Go" />
+<img src="https://img.shields.io/badge/Node.js-44475A?style=for-the-badge&logo=nodedotjs&logoColor=50FA7B" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-44475A?style=for-the-badge&logo=postgresql&logoColor=50FA7B" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-44475A?style=for-the-badge&logo=redis&logoColor=50FA7B" alt="Redis" />
+<img src="https://img.shields.io/badge/Python-44475A?style=for-the-badge&logo=python&logoColor=50FA7B" alt="Python" />
 
 **Frontend** &nbsp;
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/wagmi_+_viem-1C1C1C?style=flat-square&logo=ethereum&logoColor=white" alt="wagmi + viem" />
+<img src="https://img.shields.io/badge/Next.js-44475A?style=for-the-badge&logo=nextdotjs&logoColor=8BE9FD" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-44475A?style=for-the-badge&logo=react&logoColor=8BE9FD" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-44475A?style=for-the-badge&logo=typescript&logoColor=8BE9FD" alt="TypeScript" />
+<img src="https://img.shields.io/badge/wagmi_+_viem-44475A?style=for-the-badge&logo=ethereum&logoColor=8BE9FD" alt="wagmi + viem" />
 
 **Smart contracts** &nbsp;
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
-<img src="https://img.shields.io/badge/Foundry-1C1C1C?style=flat-square&logo=ethereum&logoColor=white" alt="Foundry" />
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" alt="Hardhat" />
-<img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" alt="IPFS" />
+<img src="https://img.shields.io/badge/Solidity-44475A?style=for-the-badge&logo=solidity&logoColor=BD93F9" alt="Solidity" />
+<img src="https://img.shields.io/badge/Foundry-44475A?style=for-the-badge&logo=ethereum&logoColor=BD93F9" alt="Foundry" />
+<img src="https://img.shields.io/badge/Hardhat-44475A?style=for-the-badge&logo=ethereum&logoColor=BD93F9" alt="Hardhat" />
+<img src="https://img.shields.io/badge/IPFS-44475A?style=for-the-badge&logo=ipfs&logoColor=BD93F9" alt="IPFS" />
 
 **Infra** &nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/Docker-44475A?style=for-the-badge&logo=docker&logoColor=FFB86C" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-44475A?style=for-the-badge&logo=kubernetes&logoColor=FFB86C" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Terraform-44475A?style=for-the-badge&logo=terraform&logoColor=FFB86C" alt="Terraform" />
+<img src="https://img.shields.io/badge/GitHub_Actions-44475A?style=for-the-badge&logo=githubactions&logoColor=FFB86C" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Grafana-44475A?style=for-the-badge&logo=grafana&logoColor=FFB86C" alt="Grafana" />
 
 ### 📊 GitHub stats
 
 <!-- Generated daily by .github/workflows/profile-cards.yml and stored in this repo, so they always load. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roudra323/roudra323/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details" />
+  <img src="https://raw.githubusercontent.com/roudra323/roudra323/main/profile-summary-card-output/dracula/0-profile-details.svg" width="100%" alt="Profile details" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roudra323/roudra323/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats" />
-  <img src="https://raw.githubusercontent.com/roudra323/roudra323/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most committed languages" />
+  <img src="https://raw.githubusercontent.com/roudra323/roudra323/main/profile-summary-card-output/dracula/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/roudra323/roudra323/main/profile-summary-card-output/dracula/4-productive-time.svg" width="49%" alt="Productive time" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roudra323/roudra323/main/profile-summary-card-output/dracula/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+  <img src="https://raw.githubusercontent.com/roudra323/roudra323/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" alt="Most committed languages" />
 </p>
 
 ---
 
 <p align="center">💬 Building something on-chain that needs a reliable backend? Let's talk.</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BE9FD,50:FF79C6,100:BD93F9&height=100&section=footer" width="100%" alt="" />
