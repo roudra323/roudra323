@@ -20,3 +20,22 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: 6
+      # Recolor the github_dark cards to the portfolio palette (roudra323.vercel.app)
+      - name: Build portfolio-themed cards
+        run: |
+          git pull --ff-only origin main
+          rm -rf profile-summary-card-output/roudra
+          cp -r profile-summary-card-output/github_dark profile-summary-card-output/roudra
+          sed -i \
+            -e 's/#0d1117/#191D2A/gI' \
+            -e 's/#2e343b/#2A2F40/gI' \
+            -e 's/#0366d6/#6E9BFF/gI' \
+            -e 's/#8b949e/#C3C7D4/gI' \
+            -e 's/#77909c/#9599AB/gI' \
+            -e 's/#40c463/#4652F5/gI' \
+            profile-summary-card-output/roudra/*.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/roudra
+          git diff --cached --quiet || git commit -m "Update portfolio-themed profile cards"
+          git push origin main
