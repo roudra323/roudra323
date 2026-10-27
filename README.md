@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://roudra323.vercel.app/"><img src="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-portfolio.svg" height="42" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/roudra323/"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-linkedin-light.svg"><img src="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-linkedin-dark.svg" height="42" alt="LinkedIn"></picture></a>
-  <a href="https://x.com/roudra323"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-x-light.svg"><img src="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-x-dark.svg" height="42" alt="X / Twitter"></picture></a>
-  <a href="https://medium.com/@asirroudra"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-medium-light.svg"><img src="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-medium-dark.svg" height="42" alt="Medium"></picture></a>
-  <a href="mailto:asirroudra@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-email-light.svg"><img src="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-email-dark.svg" height="42" alt="Email me"></picture></a>
+  <a href="https://roudra323.vercel.app/"><img src="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-portfolio.svg" height="36" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/roudra323/"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-linkedin-light.svg"><img src="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-linkedin-dark.svg" height="36" alt="LinkedIn"></picture></a>
+  <a href="https://x.com/roudra323"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-x-light.svg"><img src="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-x-dark.svg" height="36" alt="X / Twitter"></picture></a>
+  <a href="https://medium.com/@asirroudra"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-medium-light.svg"><img src="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-medium-dark.svg" height="36" alt="Medium"></picture></a>
+  <a href="mailto:asirroudra@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-email-light.svg"><img src="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/btn-email-dark.svg" height="36" alt="Email me"></picture></a>
 </p>
 
 <picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/h-about-light.svg"><img src="https://raw.githubusercontent.com/roudra323/roudra323/main/assets/h-about-dark.svg" width="100%" alt="What I do"></picture>
